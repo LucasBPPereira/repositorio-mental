@@ -1,0 +1,4 @@
+O intuito deste repositório é que eu consiga guardar todo o meu aprendizado durante a minha trajetória nesse universo de desenvolvimento de software.
+
+Vou criar algumas categorias de tecnologias com base no foco básico delas, por exemplo, o foco do HTML não é ser utilizado no back-end e sim no front-end, da mesma forma que o foco do Python não é ser utilizado no front-end, e sim no back-end. 
+Foram apenas exemplos básicos para que consigamos nos guiar durante o processo de criação, é claro que tecnologias backend como o Java também conseguem utilizar o HTML para criar suas interfaces da mesma forma que conseguimos usar o Python para criar interfaces através de seus frameworks.
